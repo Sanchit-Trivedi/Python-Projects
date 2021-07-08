@@ -6,9 +6,9 @@ import itertools
 ROLLNUM_REGEX = "201[0-9]{4}"
 
 class Graph(object):
-	name = "sanchit trivedi"
-	email = "sanchit18091@iiitd.ac.in"
-	roll_num = "2018091"
+	name = "Sanchit Trivedi"
+	email = "dummy@iiitd.ac.in"
+	roll_num = "2010000"
 
 	def __init__ (self, vertices, edges):
 		"""

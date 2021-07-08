@@ -1,16 +1,13 @@
-# Name: sanchit trivedi
-# Roll No. 2018091
-# Section A
-# Group 3
+# Name: Sanchit Trivedi
 
 import unittest
-from a1 import weather_response
-from a1 import has_error
-from a1 import get_temperature 
-from a1 import get_humidity
-from a1 import get_pressure
-from a1 import get_wind
-from a1 import get_sealevel
+from weather_api import weather_response
+from weather_api import has_error
+from weather_api import get_temperature 
+from weather_api import get_humidity
+from weather_api import get_pressure
+from weather_api import get_wind
+from weather_api import get_sealevel
 
 # TEST cases should cover the different boundary cases.
 
