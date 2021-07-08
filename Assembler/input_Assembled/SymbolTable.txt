@@ -1,0 +1,5 @@
+Offset		Type 			Symbol 		Address
+3		Variable		A		00000000
+4		Variable		B		00000001
+10		Label   		L1		00001010
+13		Label   		L2		00001101
